@@ -1,26 +1,27 @@
-# 🎓 Aprendizaje Automático 2025
+# Tema 1: Introducción al Aprendizaje Automático
 
-## 📚 Temas del Curso
+## 🎯 Objetivos de Aprendizaje
+- Comprender conceptos básicos de ML
+- Diferenciar entre aprendizaje supervisado y no supervisado
 
-### 🔰 **Guías Generales**
-- [Configuración Inicial](00-GUIA-GENERAL/configuracion-inicial.ipynb)
-- [Guía para Estudiantes](00-GUIA-GENERAL/guia-estudiantes.ipynb)
-- [Cómo Entregar Talleres](00-GUIA-GENERAL/como-entregar.ipynb)
+## 📓 Talleres Disponibles
 
-### 📋 **Temas Disponibles**
+### 🧩 Taller 1.1: Conceptos Básicos
+**Archivo:** [taller-1-conceptos-basicos.ipynb](taller-1-conceptos-basicos.ipynb)
 
-| Tema | Talleres | Estado |
-|------|----------|---------|
-| [01 - Introducción ML](01-INTRODUCCION-ML/) | *Próximamente* | 🚧 **En desarrollo** |
-| [02 - Preprocesamiento](02-PREPROCESAMIENTO/) | 6 talleres | ✅ **Disponible** |
-| [03 - Modelos Supervisados](03-MODELOS-SUPERVISADOS/) |*Próximamente* | 🚧 **En desarrollo** |
-| [04 - Modelos No Supervisados](04-MODELOS-NO-SUPERVISADOS/) | *Próximamente* | 🚧 **En desarrollo** |
-| [05 - Redes Neuronales](05-REDES-NEURONALES/) | *Próximamente* | 🚧 **En desarrollo** |
+**Descripción:** Introducción a los tipos de aprendizaje automático y primeros ejercicios prácticos.
 
-## 🗓️ Calendario de Lanzamiento
-- **Semana 1-2**: Temas 1-3 ✅
-- **Semana 3-4**: Tema 4 🚧
-- **Semana 5-6**: Tema 5 🚧
+**Habilidades:**
+- ✅ Definir aprendizaje automático
+- ✅ Clasificar problemas de ML
+- ✅ Implementar algoritmo simple
 
----
-*Nuevos talleres se agregarán semanalmente*
+### 📊 Taller 1.2: Análisis Exploratorio
+**Archivo:** [taller-1-analisis-exploratorio.ipynb](taller-1-analisis-exploratorio.ipynb)
+
+**Descripción:** Análisis básico de datasets y visualización de datos.
+
+## 🗓️ Timeline
+- **Publicación:** Semana 1
+- **Entrega:** 7 días después de publicación
+- **Dificultad:** Principiante
