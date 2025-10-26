@@ -1,1 +1,1 @@
-hola
+En esta carpeta encontrarás los archivos de Google Colab necesarios para configurar tu entorno de trabajo. Podrás establecer la ruta en tu Drive personal y descargar el contenido del curso de dos formas: completa (todo el repositorio) o modular (tema por tema), según tus necesidades de aprendizaje y disponibilidad del material.
