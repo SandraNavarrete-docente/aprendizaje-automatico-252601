@@ -1,4 +1,4 @@
-# 🎓 Aprendizaje Automático - Curso 2025 - 2026 Primer Periodo.
+# 🎓 Aprendizaje Automático
 
 📚 Información del Curso
 - **Docente:** Ing. Sandra Navarrete Msc.
