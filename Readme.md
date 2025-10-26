@@ -14,8 +14,8 @@ Configuración Inicial
 
 ### 🔰 **Guías Generales**
 - [Configuración Inicial](00-GUIA-GENERAL/configuracion_inicial.ipynb)
-- [Guía para Estudiantes](00-GUIA-GENERAL/guia-estudiantes.ipynb)
-- [Cómo Entregar Talleres](00-GUIA-GENERAL/como_entregar.ipynb)
+- [Guía para Descargar Temas](00-GUIA-GENERAL/descargar_tema.ipynb)
+- [Cómo Entregar los Talleres](00-GUIA-GENERAL/como_entregar.ipynb)
 
 ### 📋 **Temas Disponibles**
 
